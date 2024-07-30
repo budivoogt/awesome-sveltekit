@@ -934,3 +934,12 @@
   tags: [digital garden, commonplace, notes, networks, themes]
   date_created: 2019-07-09
   date_added: 2024-07-28
+
+  - title: SvelteCareers
+  url: https://sveltecareers.com
+  repo: https://github.com/budivoogt/sveltecareers
+  description: Job site for Svelte and SvelteKit developers.
+  uses: [Typescript, Sanity, TailwindCSS, Upstash Redis, MailerSend, Vercel]
+  tags: [job site, job board, recruiting]
+  date_created: 2024-07-21
+  date_added: 2024-07-30
